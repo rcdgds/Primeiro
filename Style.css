@@ -1,0 +1,30 @@
+*
+{
+    background-color: darkgrey;
+}
+*
+{
+    text-align: center;
+}
+div
+h1 {
+    height: 50px;
+    width: 300px;
+    background-color: gray;
+    border: 5px solid rgb(55, 55, 55);
+    text-overflow: clip;
+}
+
+div
+h2 {
+    font-size: 30px;
+    font-family: monospace;
+    background-color: rgb(97, 95, 95);
+    border: 5px gray solid;
+    height:auto;
+    width: auto;
+}
+
+p{
+    font-family:monospace
+}
